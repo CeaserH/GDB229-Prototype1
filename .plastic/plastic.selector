@@ -1,4 +1,0 @@
-repository "ZombieSlasher 2025-05-13_21-18-35/ZombieSlasher@1375521180699@cloud"
-  path "/"
-    br "/main"
-    co "/main"
